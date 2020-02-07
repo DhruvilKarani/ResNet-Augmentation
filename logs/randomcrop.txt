@@ -1,0 +1,30 @@
+Epoch 1: 919.25
+Accuracy:  0.44 Loss:  158.9
+Epoch 2: 686.25
+Accuracy:  0.5 Loss:  144.4
+Epoch 3: 576.21
+Accuracy:  0.61 Loss:  116.4
+Epoch 4: 496.41
+Accuracy:  0.65 Loss:  104.9
+Epoch 5: 438.31
+Accuracy:  0.69 Loss:  90.0
+Epoch 6: 394.62
+Accuracy:  0.73 Loss:  78.0
+Epoch 7: 355.85
+Accuracy:  0.72 Loss:  85.2
+Epoch 8: 330.04
+Accuracy:  0.76 Loss:  74.8
+Epoch 9: 306.53
+Accuracy:  0.76 Loss:  74.3
+Epoch 10: 286.68
+Accuracy:  0.78 Loss:  68.7
+Epoch 11: 269.89
+Accuracy:  0.79 Loss:  65.8
+Epoch 12: 253.62
+Accuracy:  0.77 Loss:  69.2
+Epoch 13: 238.34
+Accuracy:  0.81 Loss:  59.1
+Epoch 14: 224.0
+Accuracy:  0.8 Loss:  63.7
+Epoch 15: 210.7
+Accuracy:  0.78 Loss:  70.9
